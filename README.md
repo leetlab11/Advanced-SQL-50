@@ -1,1 +1,1 @@
-<h1> LeetCode Advanced SQL 50 list- 22/50 complete</h1>
+<h1> LeetCode Advanced SQL 50 list- 24/50 complete</h1>
