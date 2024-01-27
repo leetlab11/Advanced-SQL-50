@@ -32,6 +32,8 @@ select employee_id
 from all_employees 
 
 -- adobe- 2
+    
+-- alternate    
 where employee_id not in (select employee_id from Salaries)
 order by 1
 
