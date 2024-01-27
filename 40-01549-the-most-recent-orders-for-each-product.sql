@@ -23,3 +23,6 @@ where (o.product_id, o.order_date) in (select product_id, max(order_date)
                                         from Orders
                                         group by product_id)
 order by 1, 2, 3
+
+
+-- no companies listed
