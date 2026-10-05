@@ -1,6 +1,6 @@
 -- simple WHERE clause
 
-select customer_id
+select *
 from Customers
 where year = '2021' and revenue > 0
 
